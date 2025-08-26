@@ -1,6 +1,6 @@
 import React, { useMemo, useRef, useState } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
-import { OrbitControls, Html } from "@react-three/drei";
+import { OrbitControls,Sphere, Html } from "@react-three/drei";
 import { motion, AnimatePresence } from "framer-motion";
 
 /**
